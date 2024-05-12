@@ -3,5 +3,6 @@ TD-LSTM: a time distributed and deep-learning-based architecture for classificat
 
 TD-LSTM framework, consisting of an LSTM recurrent neural network and time distributed approach, to classify brain activities' motor imagery and execution
 
-https://github.com/MortezaKarimian/TD-LSTM/blob/main/Experiment-environment.jpg
+![Experiment-environment](https://github.com/MortezaKarimian/TD-LSTM/assets/54546405/05f300f2-91fb-463e-a1a7-bba001a1f943)
+
 
